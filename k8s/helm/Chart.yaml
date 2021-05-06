@@ -5,7 +5,7 @@ version: 1.0.0
 appVersion: 1.0.0
 home: https://bookinfo.dev.opsta.net/student2/ratings
 maintainers:
-  - name: student002
+  - name: student2
     email: devop002@mail.kmutt.ac.th
 sources:
   - https://github.com/koonlucky555/bookinfo-ratings
